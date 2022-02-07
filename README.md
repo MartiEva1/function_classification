@@ -8,3 +8,5 @@ Models used:
 - bernoulliNB
 - multinomialNB
 - SVM
+
+Notebook in Python
